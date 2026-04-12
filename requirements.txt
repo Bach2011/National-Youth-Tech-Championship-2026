@@ -1,0 +1,5 @@
+ugot
+opencv-python
+ipykernel
+ipython
+ultralytics
